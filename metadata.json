@@ -1,0 +1,6 @@
+{
+  "name": "Global Success - Tiếng Anh Ôn Luyện & Bài Tập Bổ Trợ",
+  "description": "Hệ thống ôn luyện tiếng Anh Global Success chuẩn theo chương trình, 23 bài tập tương tác từ A1 đến H3, chấm điểm tự động, báo cáo học sinh và trang quản trị giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
